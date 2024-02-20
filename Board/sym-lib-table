@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ND68")(type "KiCad")(uri "${KIPRJMOD}/Symbols/ND68.kicad_sym")(options "")(descr ""))
+)
