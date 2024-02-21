@@ -3,3 +3,4 @@ Board/fp-info-cache
 *.kicad_prl
 *.lck
 Board/#auto_saved_files#
+*-table
