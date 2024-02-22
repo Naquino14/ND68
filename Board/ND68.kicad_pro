@@ -475,6 +475,14 @@
     [
       "e7d003c3-21c2-4dac-954e-30d7425e12ae",
       "usbc"
+    ],
+    [
+      "d4ffdf96-4dca-426a-a450-916a785fbc50",
+      "mcu"
+    ],
+    [
+      "38b3721d-c91c-4170-9bf9-33a48c8a26a3",
+      "flash"
     ]
   ],
   "text_variables": {}

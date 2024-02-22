@@ -563,6 +563,40 @@
     )
   )
 
+  (sheet (at 76.2 -50.8) (size 25.4 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 38b3721d-c91c-4170-9bf9-33a48c8a26a3)
+    (property "Sheetname" "flash" (at 76.2 -51.5116 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "flash.kicad_sch" (at 76.2 -24.8154 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ND68"
+        (path "/f6515d16-f8c0-46c5-adb6-b60d73ae282b" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 38.1 -50.8) (size 25.4 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d4ffdf96-4dca-426a-a450-916a785fbc50)
+    (property "Sheetname" "mcu" (at 38.1 -51.5116 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "mcu.kicad_sch" (at 38.1 -24.8154 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ND68"
+        (path "/f6515d16-f8c0-46c5-adb6-b60d73ae282b" (page "3"))
+      )
+    )
+  )
+
   (sheet (at 0 -50.8) (size 25.4 25.4) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
