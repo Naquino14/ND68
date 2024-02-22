@@ -334,8 +334,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2f99050a-10be-4b1c-99f7-4d1ede569953)
   )
-  (text "Crystal Oscillator\n" (at 140.97 63.5 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+  (text "Crystal Oscillator\n" (at 133.35 62.23 0)
+    (effects (font (size 3 3)) (justify left bottom))
     (uuid d312b585-6eb2-4228-971f-90c6d7aca439)
   )
 

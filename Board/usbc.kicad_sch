@@ -612,7 +612,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 160ef02e-2503-4b2c-bb79-3e7f488547b8)
   )
-  (text "USB-C Recepticle" (at 124.46 68.58 0)
+  (text "USB-C Recepticle" (at 151.13 121.92 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 88a3e9fc-724f-4978-ab30-ff1b95182af8)
   )
