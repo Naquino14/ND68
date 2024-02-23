@@ -419,7 +419,7 @@
     (property "Datasheet" "" (at 154.94 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 36761aa9-3632-4bdc-b063-ad015f9b2622))
+    (pin "1" (uuid 36761aa9-3632-4bdc-b063-ad015f9b2623))
     (instances
       (project "ND68"
         (path "/f6515d16-f8c0-46c5-adb6-b60d73ae282b/c38c5225-d01a-4b66-b527-49c9963cd3fc"
