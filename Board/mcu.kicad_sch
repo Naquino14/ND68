@@ -978,8 +978,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a8bf5651-e28a-4559-b82c-878bce5fac09)
   )
-  (text "Run gnd copper under this trace. \nUse 8mm wide tracks, 0.15mm gap."
-    (at 22.86 90.17 0)
+  (text "Run gnd copper under this trace. \nUse 8mm wide tracks, 0.15mm gap.\nMake sure resistors are close to mcu."
+    (at 21.59 90.17 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d97f1ff1-77cb-4ed3-bdb1-6538fe567e5f)
   )
