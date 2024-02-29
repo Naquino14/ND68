@@ -973,7 +973,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 99792277-977c-422c-831c-7ff61c69c198)
   )
-  (text "Theres some pins missing here\nThat exist in the official guide\nPins 50 & P23 need 100nf cap up to 1.1v\nPins 49, 42, 33, 22 and 10 need 100nf up to 3.3v"
+  (text "Theres some pins missing here\nThat exist in the official guide\nPins 50 & 23 need 100nf cap up to 1.1v\nPins 49, 42, 33, 22 and 10 need 100nf up to 3.3v"
     (at 92.71 30.48 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a8bf5651-e28a-4559-b82c-878bce5fac09)
