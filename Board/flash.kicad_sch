@@ -138,11 +138,11 @@
         )
         (pin passive line (at -6.35 0 0) (length 2.54)
           (name "" (effects (font (size 1.27 1.27))))
-          (number "" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
         )
         (pin passive line (at 6.35 0 180) (length 2.54)
           (name "" (effects (font (size 1.27 1.27))))
-          (number "" (effects (font (size 1.27 1.27))))
+          (number "2" (effects (font (size 1.27 1.27))))
         )
       )
     )
@@ -686,8 +686,8 @@
     (property "DigiKey" "CKN12310-1-ND" (at 115.57 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 4def1afb-ab07-44a6-ba85-575272b9189a))
-    (pin "" (uuid fa28a8eb-868a-4081-abc7-cd52f7492a40))
+    (pin "2" (uuid 4def1afb-ab07-44a6-ba85-575272b9189a))
+    (pin "1" (uuid fa28a8eb-868a-4081-abc7-cd52f7492a40))
     (instances
       (project "ND68"
         (path "/f6515d16-f8c0-46c5-adb6-b60d73ae282b/38b3721d-c91c-4170-9bf9-33a48c8a26a3"

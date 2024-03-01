@@ -786,12 +786,12 @@
     (property "RC" "L 0100" (at 161.29 62.23 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
-    (pin "1" (uuid 51c79e9e-ddd6-4fae-a176-d3421522bf51))
-    (pin "2" (uuid aea75f71-54bb-4cfa-8324-e0bf8a2a06bd))
-    (pin "3" (uuid 8f9fdedc-f3b3-4d8d-90ed-7f6a31eb53f9))
-    (pin "4" (uuid bb3f079d-f912-4a07-a3dd-012c99f4be4b))
-    (pin "6" (uuid a7e455e3-9900-4f20-a47c-0d96cee60fea))
-    (pin "5" (uuid f68ffb59-6691-4989-a2f9-2d32436ac063))
+    (pin "1" (uuid 51c79e9e-ddd6-4fae-a176-d3421522bf52))
+    (pin "2" (uuid aea75f71-54bb-4cfa-8324-e0bf8a2a06be))
+    (pin "3" (uuid 8f9fdedc-f3b3-4d8d-90ed-7f6a31eb53fa))
+    (pin "4" (uuid bb3f079d-f912-4a07-a3dd-012c99f4be4c))
+    (pin "6" (uuid a7e455e3-9900-4f20-a47c-0d96cee60feb))
+    (pin "5" (uuid f68ffb59-6691-4989-a2f9-2d32436ac064))
     (instances
       (project "ND68"
         (path "/f6515d16-f8c0-46c5-adb6-b60d73ae282b"
@@ -819,12 +819,12 @@
     (property "RC" "L 0010" (at 123.19 100.33 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
-    (pin "1" (uuid 51c79e9e-ddd6-4fae-a176-d3421522bf51))
-    (pin "2" (uuid aea75f71-54bb-4cfa-8324-e0bf8a2a06bd))
-    (pin "3" (uuid 8f9fdedc-f3b3-4d8d-90ed-7f6a31eb53f9))
-    (pin "4" (uuid bb3f079d-f912-4a07-a3dd-012c99f4be4b))
-    (pin "6" (uuid a7e455e3-9900-4f20-a47c-0d96cee60fea))
-    (pin "5" (uuid f68ffb59-6691-4989-a2f9-2d32436ac063))
+    (pin "1" (uuid 51c79e9e-ddd6-4fae-a176-d3421522bf53))
+    (pin "2" (uuid aea75f71-54bb-4cfa-8324-e0bf8a2a06bf))
+    (pin "3" (uuid 8f9fdedc-f3b3-4d8d-90ed-7f6a31eb53fb))
+    (pin "4" (uuid bb3f079d-f912-4a07-a3dd-012c99f4be4d))
+    (pin "6" (uuid a7e455e3-9900-4f20-a47c-0d96cee60fec))
+    (pin "5" (uuid f68ffb59-6691-4989-a2f9-2d32436ac065))
     (instances
       (project "ND68"
         (path "/f6515d16-f8c0-46c5-adb6-b60d73ae282b"
@@ -852,12 +852,12 @@
     (property "RC" "L 0000" (at 123.19 62.23 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
-    (pin "1" (uuid 51c79e9e-ddd6-4fae-a176-d3421522bf51))
-    (pin "2" (uuid aea75f71-54bb-4cfa-8324-e0bf8a2a06bd))
-    (pin "3" (uuid 8f9fdedc-f3b3-4d8d-90ed-7f6a31eb53f9))
-    (pin "4" (uuid bb3f079d-f912-4a07-a3dd-012c99f4be4b))
-    (pin "6" (uuid a7e455e3-9900-4f20-a47c-0d96cee60fea))
-    (pin "5" (uuid f68ffb59-6691-4989-a2f9-2d32436ac063))
+    (pin "1" (uuid 51c79e9e-ddd6-4fae-a176-d3421522bf54))
+    (pin "2" (uuid aea75f71-54bb-4cfa-8324-e0bf8a2a06c0))
+    (pin "3" (uuid 8f9fdedc-f3b3-4d8d-90ed-7f6a31eb53fc))
+    (pin "4" (uuid bb3f079d-f912-4a07-a3dd-012c99f4be4e))
+    (pin "6" (uuid a7e455e3-9900-4f20-a47c-0d96cee60fed))
+    (pin "5" (uuid f68ffb59-6691-4989-a2f9-2d32436ac066))
     (instances
       (project "ND68"
         (path "/f6515d16-f8c0-46c5-adb6-b60d73ae282b"
