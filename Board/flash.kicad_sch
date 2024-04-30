@@ -671,7 +671,7 @@
   (symbol (lib_id "ND68:PTS636_SM43_SMTR_LFS") (at 115.57 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e2977a18-f938-4a6a-bc25-5113d10ff4c5)
-    (property "Reference" "SW5" (at 115.57 58.42 0)
+    (property "Reference" "SW0" (at 115.57 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 114.9286 66.3441 0)
@@ -691,7 +691,7 @@
     (instances
       (project "ND68"
         (path "/f6515d16-f8c0-46c5-adb6-b60d73ae282b/38b3721d-c91c-4170-9bf9-33a48c8a26a3"
-          (reference "SW5") (unit 1)
+          (reference "SW0") (unit 1)
         )
       )
     )
