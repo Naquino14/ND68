@@ -1376,7 +1376,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.15)))
       (tstamp 876e1a99-f1e6-4d2d-b2f6-0dfda8904c7c)
     )
-    (fp_text user "L CNRN" (at -2.794 8.7884 unlocked) (layer "F.SilkS")
+    (fp_text user "L CNRN" (at -2.794 8.7884 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify left bottom))
       (tstamp 1c7ac70c-ec14-402e-873d-9be1e9f1de20)
     )
@@ -9813,7 +9813,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.15)))
       (tstamp 3c487292-a995-442f-abc7-8479e90643b1)
     )
-    (fp_text user "L CNRN" (at -2.794 8.7884 unlocked) (layer "F.SilkS")
+    (fp_text user "L CNRN" (at -2.794 8.7884 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify left bottom))
       (tstamp 2478d001-84b2-4fec-8164-dd53cb2b4a06)
     )
