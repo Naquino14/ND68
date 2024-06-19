@@ -45,7 +45,7 @@
   (pad "2" smd rect (at 2.55 4.2) (size 1.7 0.82) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp adae4975-f321-4380-89e0-75961ca7f824))
   (pad "3" smd roundrect (at -2.55 4.2) (size 1.7 0.82) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25) (tstamp 0fcebe29-d452-49ad-8617-3f8e98aa3b47))
   (pad "4" smd rect (at -2.55 5.7) (size 1.7 0.82) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp ad7d9040-d55f-458f-9190-a4375f6fb146))
-  (model "${KIPRJMOD}/Footprints/ND68.pretty/MX .STEP"
+  (model "${KIPRJMOD}/Footprints/ND68.pretty/MX .STEP" hide
     (offset (xyz 7.35 7.35 6))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))
