@@ -55,7 +55,15 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "hole_clearance|44575000|-96981250|29c6bab3-9388-44bb-84ed-21ae11a367e3|a22420db-7b90-4dc7-8d56-47cdb37a0150",
+        "hole_clearance|44575000|-96981250|29c6bab3-9388-44bb-84ed-21ae11a367e3|b8827480-f60c-40e4-b2d7-19b5049327a2",
+        "hole_clearance|50675000|-96981250|a42821d7-4b68-45f8-8042-f7eef2b9a63b|5b10e2e5-81ad-432e-a0fb-f23168c58eae",
+        "hole_clearance|50675000|-96981250|a42821d7-4b68-45f8-8042-f7eef2b9a63b|88599b11-5f14-436b-8d54-a81f6d978c5c",
+        "track_dangling|301625000|-13493750|7b5a9791-4f23-4a36-83fa-beb536d23863|00000000-0000-0000-0000-000000000000",
+        "track_dangling|303212500|-13493750|6ec19043-f5cd-4b00-98d7-eb42d570500a|00000000-0000-0000-0000-000000000000",
+        "track_dangling|303212500|-15081250|5c0dd5e8-eafb-434f-a4b7-087f52af3b4e|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -63,7 +71,7 @@
         "annular_width": "error",
         "clearance": "ignore",
         "connection_width": "warning",
-        "copper_edge_clearance": "warning",
+        "copper_edge_clearance": "ignore",
         "copper_sliver": "warning",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
@@ -449,7 +457,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../../../media/naquino14/windows/Users/naqui/Desktop/ND68.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
