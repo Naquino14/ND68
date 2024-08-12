@@ -55,7 +55,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "starved_thermal|120860000|94650000|6f46e4c9-a1ad-455c-96c5-3792c110ba8e|65f4f0a3-69f3-4809-aa6b-6075a9a1dad4|F.Cu",
+        "track_dangling|301625000|81756250|7b5a9791-4f23-4a36-83fa-beb536d23863|00000000-0000-0000-0000-000000000000",
+        "track_dangling|303212500|80168750|5c0dd5e8-eafb-434f-a4b7-087f52af3b4e|00000000-0000-0000-0000-000000000000",
+        "track_dangling|303212500|81756250|6ec19043-f5cd-4b00-98d7-eb42d570500a|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -146,7 +151,7 @@
         {
           "td_curve_segcount": 5,
           "td_height_ratio": 1.0,
-          "td_length_ratio": 0.5,
+          "td_length_ratio": 0.2,
           "td_maxheight": 2.0,
           "td_maxlen": 1.0,
           "td_target_name": "td_round_shape",
