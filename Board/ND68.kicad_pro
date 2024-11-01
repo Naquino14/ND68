@@ -450,12 +450,12 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "ND68.cad",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "../../../../../../media/naquino14/windows/Users/naqui/Desktop/ND68.dsn",
       "step": "../../../../../../media/naquino14/windows/Users/naqui/Desktop/ND68.step",
-      "vrml": ""
+      "vrml": "../../../../../../media/naquino14/windows/Users/naqui/Desktop/ND68.wrl"
     },
     "page_layout_descr_file": ""
   },
